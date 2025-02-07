@@ -63,3 +63,8 @@ footer {
 .col img:hover {
   transform: scale(1.1);
 }
+
+.cards {
+  object-fit: cover !important;
+  height: 100%;
+}
